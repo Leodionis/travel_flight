@@ -1,0 +1,2777 @@
+.symbols-icon1 {
+  position: absolute;
+  height: 96.97%;
+  width: 99.83%;
+  top: 1.52%;
+  right: 0.17%;
+  bottom: 1.52%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fickleflight-logo1 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 174px;
+  height: 33px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.explore1,
+.fickleflight-logo1 {
+  position: relative;
+  cursor: pointer;
+}
+.search1 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: 14px;
+  font-family: Roboto;
+  color: #1262af;
+  text-align: left;
+  display: inline-block;
+}
+.hotels1,
+.offers1,
+.search1 {
+  position: relative;
+  cursor: pointer;
+}
+.offers1 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: 14px;
+  font-family: Roboto;
+  color: #424242;
+  text-align: left;
+  display: inline-block;
+}
+.navigation-menu1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 30px;
+}
+.hamburger-menu-icon1 {
+  display: none;
+}
+.hamburger-menu-icon1,
+.notification-bell-icon1 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.unsplashd1upkifd04a-icon {
+  width: 36px;
+  border-radius: 38px;
+  height: 36px;
+  object-fit: cover;
+}
+.account-section1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+.navigation-right1 {
+  justify-content: flex-end;
+  gap: 36px;
+}
+.navigation-right1,
+.top-container1,
+.top-header1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.top-container1 {
+  flex: 1;
+  justify-content: space-between;
+}
+.top-header1 {
+  align-self: stretch;
+  height: 77px;
+  background-color: #fff;
+  justify-content: center;
+  padding: 22px 80px;
+  box-sizing: border-box;
+  position: sticky;
+  width: 100%;
+  top: 0;
+  background: #fff;
+  text-align: left;
+  font-size: 14px;
+  color: #424242;
+  font-family: Roboto;
+}
+.banner-background-icon,
+.banner-gradient1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.banner-gradient1 {
+  top: 0;
+  bottom: 0;
+  background: linear-gradient(78.78deg, #114f8b 5.2%, #2a9ad7);
+}
+.banner-background-icon {
+  top: 0.4px;
+  bottom: -0.4px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.where-are-you {
+  align-self: stretch;
+  height: 67px;
+  position: relative;
+  line-height: 67px;
+  display: inline-block;
+}
+.title1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.departure-field1 {
+  align-self: stretch;
+  height: 56px;
+}
+.input-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+.arrival-field1 {
+  align-self: stretch;
+  height: 56px;
+}
+.input-group1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+.date-field {
+  align-self: stretch;
+  height: 56px;
+}
+.input-group2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+.inputs-row1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button9 {
+  width: 147px;
+  height: 26px;
+  position: relative;
+  font-size: 15px;
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.button-group1,
+.search-flights-button1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.search-flights-button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #f99a0e;
+  width: 164px;
+  height: 56px;
+  border-radius: 4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  transition: 0.3s;
+}
+.button10:hover,
+.search-flights-button1:hover {
+  background-color: #dc880b;
+}
+.button-group1 {
+  padding: 5px;
+}
+.search-form1 {
+  align-self: stretch;
+  border-radius: 10px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px;
+}
+.search-section1 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 96.5px);
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 80px;
+  box-sizing: border-box;
+  gap: 20px;
+}
+.search-container1 {
+  align-self: stretch;
+  position: relative;
+  height: 362px;
+}
+.search-form-section {
+  align-self: stretch;
+  background: linear-gradient(100.3deg, #114f8b, #2a9bd7);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-family: "Baloo Bhai";
+}
+.results {
+  width: 219.4px;
+  position: relative;
+  letter-spacing: 0.26px;
+  display: inline-block;
+}
+.frame-child19 {
+  width: 228px;
+  position: relative;
+  max-height: 100%;
+}
+.results-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 228px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.results-summary {
+  width: 228px;
+  position: relative;
+  height: 47px;
+  font-size: 20px;
+}
+.results1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 65.3px;
+}
+.component-1formcheckbox {
+  position: absolute;
+  top: 50px;
+  left: 0;
+}
+.component-1formcheckbox1 {
+  position: absolute;
+  top: 86px;
+  left: 0;
+}
+.stops {
+  width: 296.6px;
+  position: relative;
+  height: 106px;
+}
+.results2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 189px;
+}
+.component-1formcheckbox2 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+}
+.component-1formcheckbox3 {
+  position: absolute;
+  top: 86px;
+  left: 0;
+}
+.booking-options {
+  width: 221px;
+  position: relative;
+  height: 106px;
+}
+.results3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 198px;
+}
+.component-1formcheckbox4 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+}
+.component-1formcheckbox5 {
+  position: absolute;
+  top: 86px;
+  left: 0;
+}
+.flight-experience {
+  width: 310.8px;
+  position: relative;
+  height: 106px;
+}
+.seperator-icon {
+  width: 228px;
+  position: relative;
+  max-height: 100%;
+}
+.results4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.26px;
+  display: inline-block;
+  width: 87.8px;
+}
+.component-1formcheckbox6 {
+  position: absolute;
+  top: 50px;
+  left: 0;
+}
+.component-1formcheckbox7 {
+  position: absolute;
+  top: 86px;
+  left: 0;
+}
+.airlines {
+  width: 181px;
+  position: relative;
+  height: 106px;
+}
+.search-filters {
+  width: 253px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 39px;
+}
+.results5 {
+  position: relative;
+  font-size: 18px;
+  letter-spacing: 0.26px;
+  color: #7e8a97;
+}
+.turkish-icon {
+  width: 34.8px;
+  position: relative;
+  height: 46px;
+}
+.singapore-airlines {
+  position: relative;
+  letter-spacing: 0.26px;
+}
+.airline-section {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.am,
+.sin1 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.am {
+  width: 100%;
+  top: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin1 {
+  width: 79.46%;
+  top: 63.46%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.departure-details {
+  width: 93px;
+  position: relative;
+  height: 52px;
+}
+.flighticon {
+  position: absolute;
+  height: 27.45%;
+  width: 88.51%;
+  top: 0;
+  right: 5.54%;
+  bottom: 72.55%;
+  left: 5.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.h-55m-non-stop {
+  position: absolute;
+  top: 65.45%;
+  left: 0;
+  letter-spacing: 0.21px;
+}
+.flightduration {
+  width: 121px;
+  position: relative;
+  height: 55px;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.am1,
+.sin2 {
+  position: absolute;
+  display: inline-block;
+}
+.am1 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin2 {
+  width: 81.21%;
+  top: 63.46%;
+  left: 17.69%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.arrival-details {
+  width: 91px;
+  position: relative;
+  height: 52px;
+  text-align: right;
+}
+.flight-details-section {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 21px;
+  color: #1262af;
+}
+.price-section-child {
+  width: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100px;
+}
+.s-730 {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.34px;
+  display: inline-block;
+}
+.flight-card,
+.price-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.price-section {
+  width: 128px;
+  text-align: center;
+  font-size: 24px;
+  color: #fba403;
+}
+.flight-card {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 0.7px solid #cecece;
+  padding: 0 6px 0 25px;
+  gap: 50px;
+}
+.sia-icon {
+  height: 46px;
+  width: 34.8px;
+  position: relative;
+}
+.singapore-airlines1 {
+  position: relative;
+  letter-spacing: 0.26px;
+}
+.airline-section1 {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.am2,
+.sin3 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.am2 {
+  width: 100%;
+  top: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin3 {
+  width: 79.46%;
+  top: 63.46%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.departure-details1 {
+  width: 93px;
+  position: relative;
+  height: 52px;
+}
+.flighticon1 {
+  position: absolute;
+  height: 27.45%;
+  width: 83.02%;
+  top: 0;
+  right: 8.29%;
+  bottom: 72.55%;
+  left: 8.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.h-55m-non-stop1 {
+  position: absolute;
+  top: 65.45%;
+  left: 0;
+  letter-spacing: 0.21px;
+}
+.flightduration1 {
+  width: 129px;
+  position: relative;
+  height: 55px;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.am3,
+.sin4 {
+  position: absolute;
+  display: inline-block;
+}
+.am3 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin4 {
+  width: 81.21%;
+  top: 63.46%;
+  left: 17.69%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.arrival-details1 {
+  width: 91px;
+  position: relative;
+  height: 52px;
+  text-align: right;
+}
+.flight-details-section1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 21px;
+  color: #1262af;
+}
+.price-section-item {
+  width: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100px;
+}
+.s-7301 {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.34px;
+  display: inline-block;
+}
+.flight-card1,
+.price-section1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.price-section1 {
+  width: 128px;
+  text-align: center;
+  font-size: 24px;
+  color: #fba403;
+}
+.flight-card1 {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 0.7px solid #cecece;
+  padding: 0 6px 0 25px;
+  gap: 50px;
+}
+.japan-icon {
+  height: 46px;
+  width: 34.8px;
+  position: relative;
+  transform: scale(0.8);
+}
+.singapore-airlines2 {
+  position: relative;
+  letter-spacing: 0.26px;
+}
+.airline-section2 {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.am4,
+.sin5 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.am4 {
+  width: 100%;
+  top: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin5 {
+  width: 79.46%;
+  top: 63.46%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.departure-details2 {
+  width: 93px;
+  position: relative;
+  height: 52px;
+}
+.flighticon2 {
+  position: absolute;
+  height: 27.45%;
+  width: 88.51%;
+  top: 0;
+  right: 5.54%;
+  bottom: 72.55%;
+  left: 5.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.h-55m-non-stop2 {
+  position: absolute;
+  top: 65.45%;
+  left: 0;
+  letter-spacing: 0.21px;
+}
+.flightduration2 {
+  width: 121px;
+  position: relative;
+  height: 55px;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.am5,
+.sin6 {
+  position: absolute;
+  display: inline-block;
+}
+.am5 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin6 {
+  width: 81.21%;
+  top: 63.46%;
+  left: 17.69%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.arrival-details2 {
+  width: 91px;
+  position: relative;
+  height: 52px;
+  text-align: right;
+}
+.flight-details-section2 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 21px;
+  color: #1262af;
+}
+.price-section-inner {
+  width: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100px;
+}
+.s-7302 {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.34px;
+  display: inline-block;
+}
+.flight-card2,
+.price-section2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.price-section2 {
+  width: 128px;
+  text-align: center;
+  font-size: 24px;
+  color: #fba403;
+}
+.flight-card2 {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 0.7px solid #cecece;
+  padding: 0 6px 0 25px;
+  gap: 50px;
+}
+.ana-icon {
+  height: 46px;
+  width: 34.8px;
+  position: relative;
+  transform: scale(0.8);
+}
+.singapore-airlines3 {
+  position: relative;
+  letter-spacing: 0.26px;
+}
+.airline-section3 {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.am6,
+.sin7 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.am6 {
+  width: 100%;
+  top: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin7 {
+  width: 79.46%;
+  top: 63.46%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.departure-details3 {
+  width: 93px;
+  position: relative;
+  height: 52px;
+}
+.flighticon3 {
+  position: absolute;
+  height: 27.45%;
+  width: 88.51%;
+  top: 0;
+  right: 5.54%;
+  bottom: 72.55%;
+  left: 5.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.h-55m-non-stop3 {
+  position: absolute;
+  top: 65.45%;
+  left: 0;
+  letter-spacing: 0.21px;
+}
+.flightduration3 {
+  width: 121px;
+  position: relative;
+  height: 55px;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.am7,
+.sin8 {
+  position: absolute;
+  display: inline-block;
+}
+.am7 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin8 {
+  width: 81.21%;
+  top: 63.46%;
+  left: 17.69%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.arrival-details3 {
+  width: 91px;
+  position: relative;
+  height: 52px;
+  text-align: right;
+}
+.flight-details-section3 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 21px;
+  color: #1262af;
+}
+.price-section-child1 {
+  width: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100px;
+}
+.s-7303 {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.34px;
+  display: inline-block;
+}
+.flight-card3,
+.price-section3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.price-section3 {
+  width: 128px;
+  text-align: center;
+  font-size: 24px;
+  color: #fba403;
+}
+.flight-card3 {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 0.7px solid #cecece;
+  padding: 0 6px 0 25px;
+  gap: 50px;
+}
+.american-airlines-icon {
+  height: 46px;
+  width: 34.8px;
+  position: relative;
+}
+.singapore-airlines4 {
+  position: relative;
+  letter-spacing: 0.26px;
+}
+.airline-section4 {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.am8,
+.sin9 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.am8 {
+  width: 100%;
+  top: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin9 {
+  width: 79.46%;
+  top: 63.46%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.departure-details4 {
+  width: 93px;
+  position: relative;
+  height: 52px;
+}
+.flighticon4 {
+  position: absolute;
+  height: 27.45%;
+  width: 88.51%;
+  top: 0;
+  right: 5.54%;
+  bottom: 72.55%;
+  left: 5.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.h-55m-non-stop4 {
+  position: absolute;
+  top: 65.45%;
+  left: 0;
+  letter-spacing: 0.21px;
+}
+.flightduration4 {
+  width: 121px;
+  position: relative;
+  height: 55px;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.am9,
+.sin10 {
+  position: absolute;
+  display: inline-block;
+}
+.am9 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin10 {
+  width: 81.21%;
+  top: 63.46%;
+  left: 17.69%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.arrival-details4 {
+  width: 91px;
+  position: relative;
+  height: 52px;
+  text-align: right;
+}
+.flight-details-section4 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 21px;
+  color: #1262af;
+}
+.price-section-child2 {
+  width: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100px;
+}
+.s-7304 {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.34px;
+  display: inline-block;
+}
+.flight-card4,
+.price-section4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.price-section4 {
+  width: 128px;
+  text-align: center;
+  font-size: 24px;
+  color: #fba403;
+}
+.flight-card4 {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 0.7px solid #cecece;
+  padding: 0 6px 0 25px;
+  gap: 50px;
+}
+.turkish-icon1 {
+  width: 34.8px;
+  position: relative;
+  height: 46px;
+}
+.singapore-airlines5 {
+  position: relative;
+  letter-spacing: 0.26px;
+}
+.airline-section5 {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.am10,
+.sin11 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.am10 {
+  width: 100%;
+  top: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin11 {
+  width: 79.46%;
+  top: 63.46%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.departure-details5 {
+  width: 93px;
+  position: relative;
+  height: 52px;
+}
+.flighticon5 {
+  position: absolute;
+  height: 27.45%;
+  width: 88.51%;
+  top: 0;
+  right: 5.54%;
+  bottom: 72.55%;
+  left: 5.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.h-55m-non-stop5 {
+  position: absolute;
+  top: 65.45%;
+  left: 0;
+  letter-spacing: 0.21px;
+}
+.flightduration5 {
+  width: 121px;
+  position: relative;
+  height: 55px;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.am11,
+.sin12 {
+  position: absolute;
+  display: inline-block;
+}
+.am11 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin12 {
+  width: 81.21%;
+  top: 63.46%;
+  left: 17.69%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.arrival-details5 {
+  width: 91px;
+  position: relative;
+  height: 52px;
+  text-align: right;
+}
+.flight-details-section5 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 21px;
+  color: #1262af;
+}
+.price-section-child3 {
+  width: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100px;
+}
+.s-7305 {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.34px;
+  display: inline-block;
+}
+.flight-card5,
+.price-section5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.price-section5 {
+  width: 128px;
+  text-align: center;
+  font-size: 24px;
+  color: #fba403;
+}
+.flight-card5 {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 0.7px solid #cecece;
+  padding: 0 6px 0 25px;
+  gap: 50px;
+}
+.japan-icon1 {
+  height: 46px;
+  width: 34.8px;
+  position: relative;
+  transform: scale(0.8);
+}
+.singapore-airlines6 {
+  position: relative;
+  letter-spacing: 0.26px;
+}
+.airline-section6 {
+  width: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.am12,
+.sin13 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.am12 {
+  width: 100%;
+  top: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin13 {
+  width: 79.46%;
+  top: 63.46%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.departure-details6 {
+  width: 93px;
+  position: relative;
+  height: 52px;
+}
+.flighticon6 {
+  position: absolute;
+  height: 27.45%;
+  width: 88.51%;
+  top: 0;
+  right: 5.54%;
+  bottom: 72.55%;
+  left: 5.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.h-55m-non-stop6 {
+  position: absolute;
+  top: 65.45%;
+  left: 0;
+  letter-spacing: 0.21px;
+}
+.flightduration6 {
+  width: 121px;
+  position: relative;
+  height: 55px;
+  text-align: center;
+  font-size: 16px;
+  color: #8e8e94;
+}
+.am13,
+.sin14 {
+  position: absolute;
+  display: inline-block;
+}
+.am13 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.32px;
+  font-weight: 500;
+}
+.sin14 {
+  width: 81.21%;
+  top: 63.46%;
+  left: 17.69%;
+  font-size: 16px;
+  letter-spacing: 0.26px;
+  color: #646468;
+}
+.arrival-details6 {
+  width: 91px;
+  position: relative;
+  height: 52px;
+  text-align: right;
+}
+.flight-details-section6 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 21px;
+  color: #1262af;
+}
+.price-section-child4 {
+  width: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 100px;
+}
+.s-7306 {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.34px;
+  display: inline-block;
+}
+.flight-card6,
+.price-section6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.price-section6 {
+  width: 128px;
+  text-align: center;
+  font-size: 24px;
+  color: #fba403;
+}
+.flight-card6 {
+  align-self: stretch;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 0.7px solid #cecece;
+  padding: 0 6px 0 25px;
+  gap: 50px;
+}
+.primary-button-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: #1262af;
+}
+.search-flights1 {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 81.5px);
+  letter-spacing: 0.04em;
+  font-weight: 500;
+}
+.primary-button {
+  width: 220px;
+  position: relative;
+  height: 72px;
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+}
+.flight-cards {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.results6 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.recently-booked-title-child {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.recently-booked-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.airlinelogo-icon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.singapore-airlines7 {
+  position: relative;
+  line-height: 16px;
+}
+.airline {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.price {
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  color: #191919;
+  text-align: right;
+}
+.airline-price {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.depcode {
+  position: relative;
+  font-weight: 600;
+}
+.depname {
+  position: relative;
+  font-size: 12px;
+  color: #7e8a97;
+}
+.departure {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.flight-icon {
+  width: 47.8px;
+  position: relative;
+  height: 12px;
+}
+.arrcode {
+  position: relative;
+  font-weight: 600;
+}
+.arrname {
+  position: relative;
+  font-size: 12px;
+  color: #7e8a97;
+  text-align: right;
+}
+.arrival,
+.locations {
+  display: flex;
+  justify-content: flex-start;
+}
+.arrival {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+}
+.locations {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #f8f9fb;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px;
+  gap: 7px;
+  font-size: 16px;
+  color: #1262af;
+}
+.class-icon {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.flightclass {
+  position: relative;
+  line-height: 16px;
+}
+.class {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.calender-icon {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.numpeople {
+  position: relative;
+  line-height: 16px;
+}
+.calender-parent,
+.details6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.calender-parent {
+  flex: 1;
+  align-items: flex-start;
+  gap: 8px;
+}
+.details6 {
+  align-self: stretch;
+  border-radius: 4px;
+  align-items: center;
+  gap: 20px;
+}
+.expedia {
+  color: #457eff;
+}
+.provider1,
+.timeago {
+  position: relative;
+  line-height: 16px;
+}
+.timeago {
+  font-weight: 600;
+  color: #fba403;
+}
+.booking-card,
+.provider {
+  align-self: stretch;
+  display: flex;
+}
+.provider {
+  border-top: 1px solid #eaeaea;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 0 0;
+}
+.booking-card {
+  border-radius: 6px;
+  border: 1px solid #eaeaea;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+  gap: 10px;
+}
+.icon4 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.american-airlines {
+  position: relative;
+  line-height: 16px;
+}
+.airline1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.price1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  color: #191919;
+  text-align: right;
+}
+.airline-price1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.depcode1 {
+  position: relative;
+  font-weight: 600;
+}
+.depname1 {
+  position: relative;
+  font-size: 12px;
+  color: #7e8a97;
+}
+.departure1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.flight-icon1 {
+  width: 47.8px;
+  position: relative;
+  height: 12px;
+}
+.arrcode1 {
+  position: relative;
+  font-weight: 600;
+}
+.arrname1 {
+  position: relative;
+  font-size: 12px;
+  color: #7e8a97;
+  text-align: right;
+}
+.arrival1,
+.locations1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.arrival1 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+}
+.locations1 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #f8f9fb;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px;
+  gap: 7px;
+  font-size: 16px;
+  color: #1262af;
+}
+.class-icon1 {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.flightclass1 {
+  position: relative;
+  line-height: 16px;
+}
+.class1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.calender-icon1 {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.numpeople1 {
+  position: relative;
+  line-height: 16px;
+}
+.calender-group,
+.details7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.calender-group {
+  flex: 1;
+  align-items: flex-start;
+  gap: 8px;
+}
+.details7 {
+  align-self: stretch;
+  border-radius: 4px;
+  align-items: center;
+  gap: 20px;
+}
+.kayak {
+  color: #457eff;
+}
+.provider3,
+.timeago1 {
+  position: relative;
+  line-height: 16px;
+}
+.timeago1 {
+  font-weight: 600;
+  color: #fba403;
+}
+.booking-card1,
+.provider2 {
+  align-self: stretch;
+  display: flex;
+}
+.provider2 {
+  border-top: 1px solid #eaeaea;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 0 0;
+}
+.booking-card1 {
+  border-radius: 6px;
+  border: 1px solid #eaeaea;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+  gap: 10px;
+}
+.icon5 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.japan-airlines {
+  position: relative;
+  line-height: 16px;
+}
+.airline2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.div40 {
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  color: #191919;
+  text-align: right;
+}
+.airline-price2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.phoenix,
+.phx {
+  position: relative;
+}
+.phx {
+  font-weight: 600;
+}
+.phoenix {
+  font-size: 12px;
+  color: #7e8a97;
+}
+.departure2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.flight-icon2 {
+  width: 47.8px;
+  height: 12px;
+}
+.dubai,
+.dxb,
+.flight-icon2 {
+  position: relative;
+}
+.dxb {
+  font-weight: 600;
+}
+.dubai {
+  font-size: 12px;
+  color: #7e8a97;
+}
+.arrival2,
+.locations2 {
+  display: flex;
+  justify-content: flex-start;
+}
+.arrival2 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+}
+.locations2 {
+  align-self: stretch;
+  border-radius: 4px;
+  background-color: #f8f9fb;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px;
+  gap: 7px;
+  font-size: 16px;
+  color: #1262af;
+}
+.class-icon2 {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.economy {
+  position: relative;
+  line-height: 16px;
+}
+.class2 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.calender-icon2 {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.adults {
+  position: relative;
+  line-height: 16px;
+}
+.calender-container,
+.details8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.calender-container {
+  flex: 1;
+  align-items: flex-start;
+  gap: 8px;
+}
+.details8 {
+  align-self: stretch;
+  border-radius: 4px;
+  align-items: center;
+  gap: 20px;
+}
+.skyscanner {
+  color: #457eff;
+}
+.booked-on-skyscanner-container,
+.s-ago {
+  position: relative;
+  line-height: 16px;
+}
+.s-ago {
+  font-weight: 600;
+  color: #fba403;
+}
+.booking-card2,
+.provider4 {
+  align-self: stretch;
+  display: flex;
+}
+.provider4 {
+  border-top: 1px solid #eaeaea;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 0 0;
+}
+.booking-card2 {
+  border-radius: 6px;
+  border: 1px solid #eaeaea;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+  gap: 10px;
+}
+.show-more1 {
+  position: relative;
+  line-height: 16px;
+}
+.icon-back {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.show-more {
+  align-self: stretch;
+  border-radius: 3px;
+  background-color: rgba(18, 98, 175, 0.06);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 10px;
+  gap: 4px;
+  color: #1262af;
+}
+.booking-cards,
+.recently-booked {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.booking-cards {
+  align-self: stretch;
+  gap: 12px;
+  font-size: 12px;
+  color: #7e8a97;
+  font-family: Inter;
+}
+.recently-booked {
+  width: 257px;
+  border-radius: 6px;
+  background-color: #fff;
+  padding: 0 0 20px;
+  box-sizing: border-box;
+  gap: 18px;
+  color: #1262ae;
+}
+.results-section,
+.search-results {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.results-section {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 16px;
+}
+.search-results {
+  align-self: stretch;
+  justify-content: center;
+  padding: 50px 80px;
+  font-size: 22px;
+  color: #57575d;
+}
+.newsletter-section-background {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 530px;
+  object-fit: cover;
+}
+.form-title-subtext1,
+.form-title1 {
+  align-self: stretch;
+  position: relative;
+}
+.form-title-subtext1 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.form-title1 {
+  font-size: 30px;
+  color: #434343;
+}
+.form-header1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.fill-in-your1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 34px;
+}
+.form-text1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input2 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  font-family: Roboto;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.destination-name-input1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.input3 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  font-family: Roboto;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.form-fields1,
+.name-input1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.form-fields1 {
+  gap: 10px;
+}
+.button11 {
+  height: 26px;
+  position: relative;
+  font-size: 15px;
+  letter-spacing: 0.46px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Roboto;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+}
+.unstyledbutton1 {
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 22px;
+}
+.button10,
+.form1,
+.subscribe-form,
+.unstyledbutton1 {
+  display: flex;
+  flex-direction: column;
+}
+.button10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #f99a0e;
+  width: 164px;
+  height: 56px;
+  border-radius: 4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+}
+.form1,
+.subscribe-form {
+  justify-content: flex-start;
+}
+.form1 {
+  align-self: stretch;
+  box-shadow: 0 0 24px rgba(0, 0, 0, 0.03);
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid #eaeaea;
+  align-items: flex-start;
+  padding: 28px 30px;
+  gap: 17px;
+  text-align: left;
+  color: #576074;
+}
+.subscribe-form {
+  position: relative !important;
+  top: 52px;
+  left: auto !important;
+  width: 549px;
+  align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+  gap: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.logo-icon2,
+.newsletter-form-section {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.newsletter-form-section {
+  align-self: stretch;
+  background-color: #f3f7fb;
+  height: 529px;
+}
+.logo-icon2 {
+  width: 174px;
+  height: 33px;
+}
+.fickle-flight-is1 {
+  align-self: stretch;
+  height: 54px;
+  position: relative;
+  line-height: 27px;
+  display: inline-block;
+}
+.facebook-icon,
+.instagram-icon,
+.twitter-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.instagram-icon,
+.twitter-icon {
+  left: 100px;
+}
+.instagram-icon {
+  left: 50px;
+}
+.social-icons1 {
+  width: 130px;
+  position: relative;
+  height: 30px;
+}
+.fickleflight-bio1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  margin-bottom: 40px !important;
+}
+.seperator {
+  width: 1px;
+  position: relative;
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
+  box-sizing: border-box;
+  height: 157.9px;
+}
+.about-us2 {
+  top: 47.8px;
+  width: 135.7px;
+}
+.about-us2,
+.careers1,
+.company5,
+.how-we-work2,
+.news1 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.company5 {
+  top: 0;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 500;
+  width: 174.7px;
+}
+.careers1,
+.how-we-work2,
+.news1 {
+  top: 78.8px;
+  width: 84.3px;
+}
+.careers1,
+.how-we-work2 {
+  top: 109.8px;
+  width: 115.1px;
+}
+.how-we-work2 {
+  top: 140.8px;
+  width: 197.3px;
+}
+.company4 {
+  width: 197.3px;
+  position: relative;
+  height: 159.8px;
+}
+.account1,
+.support3 {
+  position: absolute;
+  top: 47.8px;
+  left: 0;
+  display: inline-block;
+  width: 109.6px;
+}
+.support3 {
+  top: 0;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 500;
+  width: 131.6px;
+}
+.accessibility1,
+.faq2,
+.support-center1 {
+  position: absolute;
+  top: 78.8px;
+  left: 0;
+  display: inline-block;
+  width: 197.3px;
+}
+.accessibility1,
+.faq2 {
+  top: 109.8px;
+  width: 53px;
+}
+.accessibility1 {
+  top: 140.8px;
+  width: 164.4px;
+}
+.support2 {
+  width: 197.3px;
+  position: relative;
+  height: 159.8px;
+}
+.covid-advisory1,
+.more3 {
+  position: absolute;
+  top: 47.8px;
+  left: 0;
+  display: inline-block;
+  width: 172.9px;
+}
+.more3 {
+  top: 0;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 500;
+  width: 76.7px;
+}
+.airline-fees1,
+.quarantine-rules1,
+.tips1 {
+  position: absolute;
+  top: 78.8px;
+  left: 0;
+  display: inline-block;
+  width: 135.4px;
+}
+.quarantine-rules1,
+.tips1 {
+  top: 109.8px;
+  width: 50.6px;
+}
+.quarantine-rules1 {
+  top: 140.8px;
+  width: 197.3px;
+}
+.more2 {
+  width: 197.3px;
+  position: relative;
+  height: 159.8px;
+}
+.footer-links1,
+.footer2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.footer-links1 {
+  flex: 1;
+  justify-content: space-between;
+  font-size: 16px;
+}
+.footer2 {
+  background: linear-gradient(91.74deg, #0b5ba8 25.38%, #299bd8);
+  justify-content: flex-start;
+  padding: 33px 84px;
+  gap: 44px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: Roboto;
+}
+.footer-section2,
+.footer2 {
+  align-self: stretch;
+}
+.footer-section1,
+.footer-section2,
+.results-page {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer-section1 {
+  align-self: stretch;
+  text-align: center;
+  font-size: 18px;
+  color: #1262ae;
+}
+.results-page {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  text-align: left;
+  font-size: 61px;
+  color: #fff;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1200px) {
+  .top-header1 {
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+  }
+  .search-filters {
+    display: none;
+  }
+  .footer2,
+  .search-results {
+    padding: 40px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .navigation-menu1 {
+    display: none;
+  }
+  .hamburger-menu-icon1 {
+    display: flex;
+  }
+  .top-header1 {
+    padding-left: 24px;
+    padding-right: 24px;
+    box-sizing: border-box;
+  }
+  .where-are-you {
+    font-size: 42px;
+    line-height: 48px;
+  }
+  .inputs-row1 {
+    width: 100%;
+    flex: unset;
+    align-self: stretch;
+  }
+  .search-flights-button1 {
+    margin-right: auto;
+  }
+  .button-group1 {
+    width: 100%;
+    text-align: left;
+  }
+  .search-form1 {
+    flex-direction: column;
+  }
+  .search-section1 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+    width: 100%;
+    top: calc(44% - 96.5px - 0px);
+  }
+  .airline-section,
+  .airline-section1,
+  .airline-section2,
+  .airline-section3,
+  .airline-section4,
+  .airline-section5,
+  .airline-section6 {
+    flex-direction: column;
+  }
+  .flight-cards {
+    flex: unset;
+    align-self: stretch;
+  }
+  .recently-booked {
+    width: 100%;
+  }
+  .results-section {
+    flex-direction: column;
+    gap: 80;
+  }
+  .search-results,
+  .subscribe-form {
+    padding: 20px 24px;
+    box-sizing: border-box;
+  }
+  .subscribe-form {
+    padding: 24px 0;
+  }
+  .fickleflight-bio1 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .seperator {
+    display: none;
+  }
+  .footer-links1 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .footer2 {
+    flex-direction: column;
+    padding: 40px 24px 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 650px) {
+  .navigation-right1 {
+    display: flex;
+  }
+  .where-are-you {
+    font-size: 31px;
+    line-height: 40px;
+  }
+  .input-group,
+  .input-group1,
+  .input-group2 {
+    width: 100%;
+    flex: unset;
+    align-self: stretch;
+  }
+  .inputs-row1 {
+    flex-direction: column;
+  }
+  .search-flights-button1 {
+    width: 100% !important;
+  }
+  .search-section1 {
+    width: 100%;
+    top: calc(32% - 96.5px - 0px);
+  }
+  .search-container1 {
+    height: 480px;
+  }
+  .turkish-icon {
+    transform: scale(0.8);
+  }
+  .airline-section {
+    flex-direction: row;
+    width: 100% !important;
+  }
+  .flightduration {
+    transform: scale(0.9);
+  }
+  .flight-details-section {
+    flex: unset;
+    align-self: stretch;
+  }
+  .price-section-child {
+    display: none;
+  }
+  .flight-card {
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .sia-icon {
+    transform: scale(0.8);
+  }
+  .airline-section1 {
+    flex-direction: row;
+    width: 100% !important;
+  }
+  .flightduration1 {
+    transform: scale(0.9);
+  }
+  .flight-details-section1 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .price-section-item {
+    display: none;
+  }
+  .flight-card1 {
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .airline-section2 {
+    flex-direction: row;
+    width: 100% !important;
+  }
+  .flightduration2 {
+    transform: scale(0.9);
+  }
+  .flight-details-section2 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .price-section-inner {
+    display: none;
+  }
+  .flight-card2 {
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .airline-section3 {
+    flex-direction: row;
+    width: 100% !important;
+  }
+  .flightduration3 {
+    transform: scale(0.9);
+  }
+  .flight-details-section3 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .price-section-child1 {
+    display: none;
+  }
+  .flight-card3 {
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .airline-section4 {
+    flex-direction: row;
+    width: 100% !important;
+  }
+  .flightduration4 {
+    transform: scale(0.9);
+  }
+  .flight-details-section4 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .price-section-child2 {
+    display: none;
+  }
+  .flight-card4 {
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .turkish-icon1 {
+    transform: scale(0.8);
+  }
+  .airline-section5 {
+    flex-direction: row;
+    width: 100% !important;
+  }
+  .flightduration5 {
+    transform: scale(0.9);
+  }
+  .flight-details-section5 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .price-section-child3 {
+    display: none;
+  }
+  .flight-card5 {
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .airline-section6 {
+    flex-direction: row;
+    width: 100% !important;
+  }
+  .flightduration6 {
+    transform: scale(0.9);
+  }
+  .flight-details-section6 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .price-section-child4 {
+    display: none;
+  }
+  .flight-card6 {
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  .button10 {
+    width: 100%;
+  }
+  .button10:hover {
+    background-color: #f99a0e;
+  }
+  .subscribe-form {
+    padding-left: 24px;
+    padding-right: 24px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative !important;
+    left: auto !important;
+    width: 100%;
+  }
+  .company4,
+  .support2 {
+    margin-bottom: 40px !important;
+  }
+  .footer-links1 {
+    flex-direction: column;
+  }
+  .footer2 {
+    padding: 30px 24px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 428px) {
+  .am,
+  .sin1 {
+    font-size: 16px;
+  }
+  .departure-details {
+    width: 80px;
+  }
+  .h-55m-non-stop {
+    font-size: 13px;
+  }
+  .am1,
+  .sin2 {
+    font-size: 16px;
+  }
+  .arrival-details {
+    width: 80px;
+  }
+  .am2,
+  .sin3 {
+    font-size: 16px;
+  }
+  .departure-details1 {
+    width: 80px;
+  }
+  .h-55m-non-stop1 {
+    font-size: 13px;
+  }
+  .am3,
+  .sin4 {
+    font-size: 16px;
+  }
+  .arrival-details1 {
+    width: 80px;
+  }
+  .am4,
+  .sin5 {
+    font-size: 16px;
+  }
+  .departure-details2 {
+    width: 80px;
+  }
+  .h-55m-non-stop2 {
+    font-size: 13px;
+  }
+  .am5,
+  .sin6 {
+    font-size: 16px;
+  }
+  .arrival-details2 {
+    width: 80px;
+  }
+  .am6,
+  .sin7 {
+    font-size: 16px;
+  }
+  .departure-details3 {
+    width: 80px;
+  }
+  .h-55m-non-stop3 {
+    font-size: 13px;
+  }
+  .am7,
+  .sin8 {
+    font-size: 16px;
+  }
+  .arrival-details3 {
+    width: 80px;
+  }
+  .am8,
+  .sin9 {
+    font-size: 16px;
+  }
+  .departure-details4 {
+    width: 80px;
+  }
+  .h-55m-non-stop4 {
+    font-size: 13px;
+  }
+  .am9,
+  .sin10 {
+    font-size: 16px;
+  }
+  .arrival-details4 {
+    width: 80px;
+  }
+  .am10,
+  .sin11 {
+    font-size: 16px;
+  }
+  .departure-details5 {
+    width: 80px;
+  }
+  .h-55m-non-stop5 {
+    font-size: 13px;
+  }
+  .am11,
+  .sin12 {
+    font-size: 16px;
+  }
+  .arrival-details5 {
+    width: 80px;
+  }
+  .am12,
+  .sin13 {
+    font-size: 16px;
+  }
+  .departure-details6 {
+    width: 80px;
+  }
+  .h-55m-non-stop6 {
+    font-size: 13px;
+  }
+  .am13,
+  .sin14 {
+    font-size: 16px;
+  }
+  .arrival-details6 {
+    width: 80px;
+  }
+}
